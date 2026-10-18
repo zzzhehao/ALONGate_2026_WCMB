@@ -3,11 +3,6 @@ project:
 
 website:
   title: "ALONGate_2026_WCMB"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
 
 format:
   html:
